@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+text-align: center;
+    margin: 0px;
+    box-shadow: 5px 5px 5px O grey;
+}
+
+.heading_div {
+    text-align: center;
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px O grey;
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
+canvas{
+
+border: 5px solid white;
+border-radius : 20px;
+box-shadow: 5px 5px 5px 0 grey;
+margin-top: 150px;
+margin-bottom: 50px;
+}
+.copyright{
+position: fixed;
+color: white;
+bottom: 0;
+width: 100%;
+background-color:  grey;
+line-height: 3;
+text-align: center;
+}
